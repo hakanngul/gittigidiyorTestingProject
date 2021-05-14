@@ -2,8 +2,8 @@ import org.junit.jupiter.api.*;
 
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
 public class Tests extends BaseTest {
-    String email = "hakanngul@icloud.com";
-    String password = "Jz123456";
+    String email = "EmailAdresi";
+    String password = "Parola";
     String productName = "Bilgisayar";
     String baseUrl = "https://www.gittigidiyor.com/";
     String urunSayisi = "2";
